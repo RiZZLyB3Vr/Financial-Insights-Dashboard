@@ -6,7 +6,7 @@ The final result is a clean, dynamic dashboard that tells the story of income, e
 
 ## Project in Action
 
-!(Financial_Insights_Dashboard_img.jpg)
+![Financial Insights Dashboard](Financial_Insights_Dashboard_img.jpg)
 
 ---
 
