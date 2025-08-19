@@ -52,8 +52,4 @@ Data Visualization: Selecting and designing the right visuals to communicate a c
 
 Dashboard Design: Creating a polished and user-friendly report with a cohesive layout.
 
-Feel free to reach out to me with any questions or feedback!
 
-GitHub: [Your GitHub Profile URL]
-
-LinkedIn: [Your LinkedIn Profile URL]
